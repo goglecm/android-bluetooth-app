@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyGreen</string>
+    <string name="b1Name">Turn on bt</string>
+    <string name="b2Name">Turn off bluetooth</string>
+    <string name="b3Name">Get neighbours</string>
+    <string name="b4Name">Get pairs</string>
+    <string name="b5Name">Write to device</string>
+    <string name="b6Name">Read from device</string>
+</resources>
